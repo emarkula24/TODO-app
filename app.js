@@ -1,4 +1,4 @@
-import { Hono } from "https://deno.land/x/hono@v3.12.11/mod.ts";
+import { Hono } from "./deps.js";
 import * as authController from "./authController.js";
 import * as todoController from "./todoController.js";
 import * as mainController from "./mainController.js";
