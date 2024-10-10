@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Hello user management!</title>
+    <title>TODO application</title>
   </head>
   <body>
     <% if (it && it.user) { %>
@@ -11,7 +11,7 @@
       <input type="submit" value="Logout" />
     </form>
     <% } else { %>
-    <p>Hi guest!</p>
+    <p>Hello party people!</p>
     <p>Please <a href="/auth/login">login</a> or <a href="/auth/registration">register</a>.</p>
     <% } %>
   </body>
