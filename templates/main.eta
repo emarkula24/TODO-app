@@ -11,7 +11,7 @@
       <input type="submit" value="Logout" />
     </form>
     <% } else { %>
-    <p>Hello party people!</p>
+    <p>Hello!</p>
     <p>Please <a href="/auth/login">login</a> or <a href="/auth/registration">register</a>.</p>
     <% } %>
   </body>
