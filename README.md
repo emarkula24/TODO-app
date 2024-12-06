@@ -34,4 +34,4 @@ $ docker run -d -p 8000:8000 todo
 
 ## **Deployment**
 
-Layerfile can be used to deploy the application to webapp.io that creates a virtual machine that runs the container.
+Layerfile can be used to deploy the application to webapp.io that creates a virtual machine and runs the container.
