@@ -4,6 +4,7 @@
     <title>TODO</title>
   </head>
   <body>
+    <p><a href="/">Back</a></p>
     <p>Add a todo:</p>
     <form method="POST" action="/todos">
       <label for="todo">Todo:</label>
