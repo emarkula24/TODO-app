@@ -16,7 +16,7 @@ This project was made for those who are forgetful and need a little help to list
 - [helper from Deno](https://deno.land/x/hono@v3.12.11/helper.ts) Used to  manage cookies
 - [scrypt from Deno](https://deno.land/x/scrypt@v4.3.4/mod.ts) Used to hash passwords 
 
-## **Installation**
+## **Install & Run**
 
 - Clone the repository
   
